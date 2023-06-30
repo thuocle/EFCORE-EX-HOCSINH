@@ -10,6 +10,9 @@ namespace EF_EX_HOCSINH.IServices
 {
     public interface IHocSinhServices
     {
-        errType ThemHSVaoLop(HocSinh hs, int lopID);
+        void ThemHSVaoLop(HocSinh hs, int lopID);
+        void SuaHS(int hsID);
+        void XoaHS(int hsID);
+        void ChuyenLopChoHS(int hsID, int lopNewID);
     }
 }
