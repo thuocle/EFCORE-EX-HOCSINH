@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FoCRjxDMel1rBnmG9drYxHXGCsNAnh/sBX+KXrHwGMpEQuVNHqA2tN0XKiNB7LxPLpUmUO1qKOMGk5sQHt9/sQ==",
+  "dgSpecHash": "nkcW+Ya5L7GNhoSPBn96C3Klv9GxNfSwKQnWDcxtzAobkBfNR+6NI+xCtimeLPgxv0yLaShOOlDGFQeSg6F/Jg==",
   "success": true,
-  "projectFilePath": "D:\\Máy tính\\EFCORE-SOLUTION\\EF-EX-HOCSINH\\EF-EX-HOCSINH.csproj",
+  "projectFilePath": "D:\\Máy tính\\EFCORE-SOLUTION\\EFCORE-EX-HOCSINH\\EF-EX-HOCSINH\\EF-EX-HOCSINH.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anhtu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\anhtu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

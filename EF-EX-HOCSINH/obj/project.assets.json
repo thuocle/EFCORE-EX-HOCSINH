@@ -3517,11 +3517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Máy tính\\EFCORE-SOLUTION\\EF-EX-HOCSINH\\EF-EX-HOCSINH.csproj",
+      "projectUniqueName": "D:\\Máy tính\\EFCORE-SOLUTION\\EFCORE-EX-HOCSINH\\EF-EX-HOCSINH\\EF-EX-HOCSINH.csproj",
       "projectName": "EF-EX-HOCSINH",
-      "projectPath": "D:\\Máy tính\\EFCORE-SOLUTION\\EF-EX-HOCSINH\\EF-EX-HOCSINH.csproj",
+      "projectPath": "D:\\Máy tính\\EFCORE-SOLUTION\\EFCORE-EX-HOCSINH\\EF-EX-HOCSINH\\EF-EX-HOCSINH.csproj",
       "packagesPath": "C:\\Users\\anhtu\\.nuget\\packages\\",
-      "outputPath": "D:\\Máy tính\\EFCORE-SOLUTION\\EF-EX-HOCSINH\\obj\\",
+      "outputPath": "D:\\Máy tính\\EFCORE-SOLUTION\\EFCORE-EX-HOCSINH\\EF-EX-HOCSINH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
